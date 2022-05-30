@@ -28,8 +28,7 @@ Console.WriteLine($"El mayor de todos los números: {numeros.Max()}");
 Console.WriteLine($"El menor de todos los números: {numeros.Min()}");
 
 // Obtener el promedio de todos los números y mostrarlo en pantalla.
-double promedio;
-promedio = suma / numeros.Length;
+double promedio = suma / numeros.Length;
 
 Console.WriteLine($"El promedio de todos los números es: {promedio}");
 
