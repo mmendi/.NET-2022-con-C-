@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\Clase07\\EjercicioClase07\\EjercicioClase07\\EjercicioClase07.csproj",
+      "projectUniqueName": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\.NET 2022\\Clase07 - Matrices & Array\\EjercicioClase07\\EjercicioClase07\\EjercicioClase07.csproj",
       "projectName": "EjercicioClase07",
-      "projectPath": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\Clase07\\EjercicioClase07\\EjercicioClase07\\EjercicioClase07.csproj",
+      "projectPath": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\.NET 2022\\Clase07 - Matrices & Array\\EjercicioClase07\\EjercicioClase07\\EjercicioClase07.csproj",
       "packagesPath": "C:\\Users\\A2ARTE3D\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\Clase07\\EjercicioClase07\\EjercicioClase07\\obj\\",
+      "outputPath": "D:\\Cursos\\Curso .NET 2022 - Polo Tec. Mina Clavero\\.NET 2022\\Clase07 - Matrices & Array\\EjercicioClase07\\EjercicioClase07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A2ARTE3D\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
