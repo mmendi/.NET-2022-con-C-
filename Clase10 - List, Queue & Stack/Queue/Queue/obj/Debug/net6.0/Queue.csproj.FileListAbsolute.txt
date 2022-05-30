@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\bin\Debug\net6.0\Queue.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\bin\Debug\net6.0\Queue.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase10\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll

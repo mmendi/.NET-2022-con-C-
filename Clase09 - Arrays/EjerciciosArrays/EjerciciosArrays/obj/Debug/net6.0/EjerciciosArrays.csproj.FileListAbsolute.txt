@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\bin\Debug\net6.0\EjerciciosArrays.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\bin\Debug\net6.0\EjerciciosArrays.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\bin\Debug\net6.0\EjerciciosArrays.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\bin\Debug\net6.0\EjerciciosArrays.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\bin\Debug\net6.0\EjerciciosArrays.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\refint\EjerciciosArrays.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\EjerciciosArrays.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\EjerciciosArrays\EjerciciosArrays\obj\Debug\net6.0\ref\EjerciciosArrays.dll

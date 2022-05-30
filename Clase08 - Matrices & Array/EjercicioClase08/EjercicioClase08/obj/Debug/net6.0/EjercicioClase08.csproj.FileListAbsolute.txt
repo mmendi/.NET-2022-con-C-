@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\bin\Debug\net6.0\EjercicioClase08.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\bin\Debug\net6.0\EjercicioClase08.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\bin\Debug\net6.0\EjercicioClase08.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\bin\Debug\net6.0\EjercicioClase08.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\bin\Debug\net6.0\EjercicioClase08.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\refint\EjercicioClase08.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\EjercicioClase08.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\EjercicioClase08\EjercicioClase08\obj\Debug\net6.0\ref\EjercicioClase08.dll

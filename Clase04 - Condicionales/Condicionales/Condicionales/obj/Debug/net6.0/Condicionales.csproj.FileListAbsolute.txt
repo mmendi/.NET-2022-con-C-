@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\refint\Condicionales.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase04\Condicionales\Condicionales\obj\Debug\net6.0\ref\Condicionales.dll

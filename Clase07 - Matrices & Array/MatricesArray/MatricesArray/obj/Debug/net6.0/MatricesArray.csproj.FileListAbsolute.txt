@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\bin\Debug\net6.0\MatricesArray.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\bin\Debug\net6.0\MatricesArray.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\bin\Debug\net6.0\MatricesArray.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\bin\Debug\net6.0\MatricesArray.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\bin\Debug\net6.0\MatricesArray.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\refint\MatricesArray.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\MatricesArray.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\MatricesArray\MatricesArray\obj\Debug\net6.0\ref\MatricesArray.dll

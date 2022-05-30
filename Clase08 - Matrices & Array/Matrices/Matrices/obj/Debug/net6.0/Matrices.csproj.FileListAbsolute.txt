@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\bin\Debug\net6.0\Matrices.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\bin\Debug\net6.0\Matrices.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\bin\Debug\net6.0\Matrices.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\bin\Debug\net6.0\Matrices.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\bin\Debug\net6.0\Matrices.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\refint\Matrices.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\Matrices.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase08\Matrices\Matrices\obj\Debug\net6.0\ref\Matrices.dll

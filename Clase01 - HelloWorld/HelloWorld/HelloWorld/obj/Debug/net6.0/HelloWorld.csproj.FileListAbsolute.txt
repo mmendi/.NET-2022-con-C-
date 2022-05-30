@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 1\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

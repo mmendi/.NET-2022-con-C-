@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\bin\Debug\net6.0\Clase03 - Calculo.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\bin\Debug\net6.0\Clase03 - Calculo.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\bin\Debug\net6.0\Clase03 - Calculo.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\bin\Debug\net6.0\Clase03 - Calculo.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\bin\Debug\net6.0\Clase03 - Calculo.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\refint\Clase03 - Calculo.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\Clase03 - Calculo.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase03 - Calculo\obj\Debug\net6.0\ref\Clase03 - Calculo.dll

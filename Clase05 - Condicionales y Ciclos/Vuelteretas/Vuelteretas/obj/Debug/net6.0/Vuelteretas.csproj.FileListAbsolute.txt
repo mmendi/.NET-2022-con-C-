@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\refint\Vuelteretas.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\Vuelteretas\Vuelteretas\obj\Debug\net6.0\ref\Vuelteretas.dll

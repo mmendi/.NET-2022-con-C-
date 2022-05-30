@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\refint\TiposDatos.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase 2\TiposDatos\TiposDatos\obj\Debug\net6.0\ref\TiposDatos.dll

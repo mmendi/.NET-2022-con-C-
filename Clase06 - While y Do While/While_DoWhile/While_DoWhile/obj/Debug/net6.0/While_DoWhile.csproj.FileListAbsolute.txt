@@ -1,0 +1,15 @@
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\bin\Debug\net6.0\While_DoWhile.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\bin\Debug\net6.0\While_DoWhile.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\bin\Debug\net6.0\While_DoWhile.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\bin\Debug\net6.0\While_DoWhile.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\bin\Debug\net6.0\While_DoWhile.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\refint\While_DoWhile.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\While_DoWhile.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase05\While_DoWhile\While_DoWhile\obj\Debug\net6.0\ref\While_DoWhile.dll
