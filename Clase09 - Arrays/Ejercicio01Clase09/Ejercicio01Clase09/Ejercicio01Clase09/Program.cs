@@ -50,11 +50,9 @@ for (int indiceIzquierdo = 0; indiceIzquierdo < vector.Length / 2; indiceIzquier
     vector[indiceIzquierdo] = auxiliar;
     
 }
-
 Console.WriteLine("==================");
 Console.WriteLine($"Los números aleatorios después de invertir son: ");
 Console.WriteLine("==================");
-
 foreach (var elemento in vector)
 {
     Console.WriteLine(elemento);
