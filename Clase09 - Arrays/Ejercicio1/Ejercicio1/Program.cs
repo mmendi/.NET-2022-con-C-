@@ -15,8 +15,6 @@
 
 Console.WriteLine("Ingrese la longitud de un vector");
 
-int longVector = int.Parse(Console.ReadLine());
-
 // Tipo[] nombre = new tipo[]
 int[] vector = new int[100];
 
