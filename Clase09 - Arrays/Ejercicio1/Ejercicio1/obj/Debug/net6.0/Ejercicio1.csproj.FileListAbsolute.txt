@@ -13,3 +13,18 @@ D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\Ejercicio1\Ejercicio1
 D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
 D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
 D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\Clase09\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+D:\Cursos\Curso .NET 2022 - Polo Tec. Mina Clavero\.NET 2022\Clase09 - Arrays\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll

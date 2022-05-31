@@ -18,7 +18,7 @@ Console.WriteLine("Ingrese la longitud de un vector");
 int longVector = int.Parse(Console.ReadLine());
 
 // Tipo[] nombre = new tipo[]
-int[] vector = new int[longVector];
+int[] vector = new int[100];
 
 // Generar aleatorio
 //int[] vector = new Random(DateTime.Now.Millisecond).Next(1, 100);
@@ -30,7 +30,16 @@ Console.WriteLine("==================");
 
 // Recorremos el vector
 
-foreach (var elemento in vector)
+for (int i = 0; i < vector.Length; i++)
+{
+    vector[i] = rand.Next(1, 100);
+}
+foreach (var i in vector)
+{
+    Console.WriteLine(i);
+}
+
+/*foreach (var elemento in vector)
 {
     vector[elemento] = rand.Next(0, 100);
     Console.WriteLine(vector[elemento]);
@@ -52,12 +61,6 @@ foreach (var elemento in vector)
 {
     Console.WriteLine(elemento);
 }
+*/
 
 Console.ReadKey();
-
-
-
-
-
-
-
